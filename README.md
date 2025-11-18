@@ -23,8 +23,8 @@ No courses, generic SaaS, or non-design products — only stuff that helps you *
 
 Name | Description | Deal | Link
 ---- | ----------- | ---- | ----
-⭐ [Tailkits UI](https://tailkits.com/ui) | 200+ modern Tailwind CSS sections and components (heroes, pricing, FAQs, CTAs, headers, footers) in clean HTML + Tailwind. Framework-agnostic and easy to paste into any stack. | **Black Friday 2025:** TBA – final discount & coupon will be added closer to Black Friday. | https://tailkits.com/ui
-[Shadcnblocks](https://www.shadcnblocks.com/?via=tailkits) | Premium library of 800+ extra shadcn/ui blocks, 1100+ components and 10+ marketing/admin templates for React, Next.js, Astro & Tailwind. | **Black Friday 2025:** TBA – check the site during Black Friday week for the live deal. | https://www.shadcnblocks.com/?via=tailkits
+⭐ [Tailkits UI](https://tailkits.com/ui) | 200+ modern Tailwind CSS sections and components (heroes, pricing, FAQs, CTAs, headers, footers) in clean HTML + Tailwind. Framework-agnostic and easy to paste into any stack. | Up to **60% OFF** with code **BLACKFRIDAY2025** | https://tailkits.com/ui/
+[Shadcnblocks](https://www.shadcnblocks.com/) | Premium library of 800+ extra shadcn/ui blocks, 1100+ components and 10+ marketing/admin templates for React, Next.js, Astro & Tailwind. |  **30% OFF** No coupon needed | https://www.shadcnblocks.com/
 
 ---
 
