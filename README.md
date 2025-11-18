@@ -24,8 +24,9 @@ No courses, generic SaaS, or non-design products - only stuff that helps you **b
 
 Name | Description | Deal
 ---- | ----------- | ----
-⭐ [Tailkits UI](https://tailkits.com/ui) | 200+ modern HTML + Tailwind sections and components (heroes, pricing, FAQs, CTAs, headers, footers). Framework-agnostic and easy to paste into any stack. | Up to **60% OFF** with code **BLACKFRIDAY2025**
-[Shadcnblocks](https://www.shadcnblocks.com/?via=tailkits) | Premium library of hundreds of extra shadcn/ui blocks, 1000+ components and multiple marketing/admin templates for React, Next.js, Astro & Tailwind. | Black Friday 2025: TBA - check the site during Black Friday week for the live deal.
+⭐ [Tailkits UI](https://tailkits.com/ui) | Modern library of over 200 customizable Tailwind components | Up to **60% OFF** with code **BLACKFRIDAY2025**
+[Shadcnblocks](https://www.shadcnblocks.com/?via=tailkits) | Extra shadcn/ui blocks, components and templates for React, Next.js, Astro and Tailwind CSS | Black Friday 2025: TBA - check the site during Black Friday week for the live deal.
+[Shadcn Studio](https://shadcnstudio.com/) | Open-source shadcn/ui components, blocks, templates and theme generator to ship UIs faster | **30% OFF** sitewide with code **BFCM30SS** (24-11-25 to 01-12-25)
 
 ---
 
@@ -33,7 +34,7 @@ Name | Description | Deal
 
 Name | Description | Deal
 ---- | ----------- | ----
-<!-- Add template deals here -->
+[daisyUI Store](https://daisyui.com/store/) | Premium templates and UI resources built on top of daisyUI and Tailwind CSS | Use **BLACKFRIDAY** code at checkout to get **40% discount** on all products.
 
 ---
 
