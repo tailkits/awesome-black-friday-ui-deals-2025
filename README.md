@@ -25,8 +25,9 @@ No courses, generic SaaS, or non-design products - only stuff that helps you **b
 Name | Description | Deal
 ---- | ----------- | ----
 ⭐ [Tailkits UI](https://tailkits.com/ui) | Modern library of over 200 customizable Tailwind components | Up to **60% OFF** with code **BLACKFRIDAY2025**
-[Shadcnblocks](https://www.shadcnblocks.com/?via=tailkits) | Extra shadcn/ui blocks, components and templates for React, Next.js, Astro and Tailwind CSS | Black Friday 2025: TBA - check the site during Black Friday week for the live deal.
+[Shadcnblocks](https://www.shadcnblocks.com/?via=tailkits) | Extra shadcn/ui blocks, components and templates for React, Next.js, Astro and Tailwind CSS | **30% discount**, no coupon needed
 [Shadcn Studio](https://shadcnstudio.com/) | Open-source shadcn/ui components, blocks, templates and theme generator to ship UIs faster | **30% OFF** sitewide with code **BFCM30SS** (24-11-25 to 01-12-25)
+[Aceternity UI Pro](https://pro.aceternity.com/) | Premium React/Next.js + Tailwind component blocks and landing page templates with Framer Motion animations | Special discounted pricing on annual, lifetime and team plans - no coupon needed
 
 ---
 
@@ -34,7 +35,8 @@ Name | Description | Deal
 
 Name | Description | Deal
 ---- | ----------- | ----
-[daisyUI Store](https://daisyui.com/store/) | Premium templates and UI resources built on top of daisyUI and Tailwind CSS | Use **BLACKFRIDAY** code at checkout to get **40% discount** on all products.
+[daisyUI Store](https://daisyui.com/store/) | Premium templates and UI resources built on top of daisyUI and Tailwind CSS | Use **BLACKFRIDAY** code at checkout to get **40% discount** on all products
+[Themefisher Astro Bundle](https://themefisher.com/bundles/astro-bundle) | One-time Astro bundle with 30+ production-ready Astro themes and all future themes included | **10% OFF** all Astro products with code **ASTROLOVE** (first 3 customers per day)
 
 ---
 
