@@ -28,7 +28,8 @@ Name | Description | Deal
 [Shadcnblocks](https://www.shadcnblocks.com/?via=tailkits) | Extra shadcn/ui blocks, components and templates for React, Next.js, Astro and Tailwind CSS | **30% discount**, no coupon needed
 [Shadcn Studio](https://shadcnstudio.com/) | Open-source shadcn/ui components, blocks, templates and theme generator to ship UIs faster | **30% OFF** sitewide with code **BFCM30SS** (24-11-25 to 01-12-25)
 [Aceternity UI Pro](https://pro.aceternity.com/) | Premium React/Next.js + Tailwind component blocks and landing page templates with Framer Motion animations | Special discounted pricing on annual, lifetime and team plans - no coupon needed
-
+[Aceternity UI Pro](https://pro.aceternity.com/) | Premium React/Next.js + Tailwind component blocks and landing page templates with Framer Motion animations | Special discounted pricing on annual, lifetime and team plans - no coupon needed
+| [**ShadcnSpace**](https://shadcnspace.com) | 1,400+ ready-to-use shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | **40% OFF** ($129 → $77) (Coupon: `BFCM`) | Until Dec 3, 2026 |
 ---
 
 ## Website Templates
